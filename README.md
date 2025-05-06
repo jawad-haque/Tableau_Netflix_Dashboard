@@ -15,6 +15,9 @@ Excited to showcase my latest Tableau project: Netflix Dashboard! This interacti
 Checkout interactive dashboard!!
 
 Would love to hear your thoughts! Any suggestions for improvement or new visualization ideas☺️.
+
+Tableau Link: https://public.tableau.com/views/NETFLIX_17463566605110/NETFLIX?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 #Tableau #DataAnalytics #DataVisualization #Dashboard #HRAnalytics #LinkedInProjects #Netflix #NetflixDashboard
 
 
